@@ -30,3 +30,12 @@ You bring the snacks, I’ll bring the code 🍪💻
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+# 📞 Let's Connect!
+
+If something sparked your interest or you just want to say hi, I’d love to hear from you!
+
+📧 **Email:** diyaapshah@gmail.com  
+📱 **Phone:** +91 87800 79585  
+🌐 **LinkedIn:** https://www.linkedin.com/in/diya-shah-236039246/
+
