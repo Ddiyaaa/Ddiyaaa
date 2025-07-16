@@ -39,3 +39,11 @@ If something sparked your interest or you just want to say hi, I’d love to hea
 📱 **Phone:** +91 87800 79585  
 🌐 **LinkedIn:** https://www.linkedin.com/in/diya-shah-236039246/
 
+
+### 📊 GitHub Stats
+![Diya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diyashah&show_icons=true&theme=radical)
+
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=diyashah&theme=radical)
+
