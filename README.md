@@ -28,14 +28,31 @@ Whether you're here to find useful code, get inspired, or just see how someone e
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-<p align="center">
-  Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🫶
-</p>
+
+Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🫶
+
 
 <p align="center">
   Let’s connect, learn, and grow together—one repo at a time. <br>
   You bring the snacks, I’ll bring the code 🍪💻
 </p>
+
+## 🖼️ Aesthetic Posters / Banners
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+about+Tech+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Sharing+my+Journey+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ddiyaaa&show_icons=true&theme=tokyonight" alt="Diya's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ddiyaaa&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiyaaa&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 # 📞 Let's Connect!
 
@@ -44,3 +61,8 @@ If something sparked your interest or you just want to say hi, I’d love to hea
 📧 **Email:** diyaapshah@gmail.com  
 📱 **Phone:** +91 87800 79585  
 🌐 **LinkedIn:** https://www.linkedin.com/in/diya-shah-236039246/
+
+<p align="center">
+  Thank you for visiting! 🌟  
+  <br>Let's collaborate and make something awesome together!
+</p>
