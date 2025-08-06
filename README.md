@@ -1,4 +1,9 @@
 ### 🌸Hey there, I’m so glad you’re here!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+about+Tech+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Sharing+my+Journey+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" />
+</p>
+
 Welcome to my little corner of GitHub!
 I’m passionate about growing in my career, picking up new tech skills, and making work life a little less overwhelming (and a lot more fun). Here, you'll find:
 
@@ -37,19 +42,9 @@ Whether you're here to find useful code, get inspired, or just see how someone e
   You bring the snacks, I’ll bring the code 🍪💻
 </p>
 
-## 🖼️ Aesthetic Posters / Banners
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Passionate+about+Tech+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Sharing+my+Journey+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" />
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ddiyaaa&show_icons=true&theme=tokyonight" alt="Diya's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ddiyaaa&theme=tokyonight" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiyaaa&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -62,7 +57,7 @@ If something sparked your interest or you just want to say hi, I’d love to hea
 📱 **Phone:** +91 87800 79585  
 🌐 **LinkedIn:** https://www.linkedin.com/in/diya-shah-236039246/
 
-<p align="center">
+
   Thank you for visiting! 🌟  
   <br>Let's collaborate and make something awesome together!
-</p>
+
