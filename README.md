@@ -7,9 +7,6 @@ I’m passionate about growing in my career, picking up new tech skills, and mak
 🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle
 Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🫶
 
-Let’s connect, learn, and grow together—one repo at a time.
-You bring the snacks, I’ll bring the code 🍪💻
-
 
 ## 💻 Tech Stack
 
@@ -30,6 +27,15 @@ You bring the snacks, I’ll bring the code 🍪💻
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+<p align="center">
+  Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out—you’re in the right place! 🫶
+</p>
+
+<p align="center">
+  Let’s connect, learn, and grow together—one repo at a time. <br>
+  You bring the snacks, I’ll bring the code 🍪💻
+</p>
 
 # 📞 Let's Connect!
 
